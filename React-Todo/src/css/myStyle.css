@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(254, 220, 220);
+}
+.container{
+    background-color: rgb(252, 198, 198);
+}
+hr{
+    border-top: 2px solid rgb(252, 91, 91);
+}
+.atask{
+    background: rgb(205, 190, 190);
+}
